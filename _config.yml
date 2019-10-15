@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: thelehhman/plainwhite-jekyll
   title: Miguel Fuertes
   description: Interesting Projects!
   logo: https://raw.githubusercontent.com/hkfuertes/hkfuertes.github.io/master/circle-cropped.png
