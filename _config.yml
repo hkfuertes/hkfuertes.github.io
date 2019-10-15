@@ -5,6 +5,8 @@ logo: https://raw.githubusercontent.com/hkfuertes/hkfuertes.github.io/master/ass
 show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
 
+# To further modify: https://github.com/pages-themes/minimal
+
 
 #remote_theme: thelehhman/plainwhite-jekyll
 #plainwhite:
