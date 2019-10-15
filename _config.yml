@@ -15,3 +15,5 @@ plainwhite:
     github:  hkfuertes
     linkedIn: in/hkfuertes # format: locale/username
 
+
+theme: jekyll-theme-minimal
