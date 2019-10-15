@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:300|Raleway:400,700" rel="stylesheet">
+<link rel="stylesheet" href="{{ "/assets/css/icons.css" | relative_url }}">
 
     <title>Miguel Fuertes | Projects</title>
 
@@ -22,7 +24,28 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        
+        <style>
+        a.social-button{
+          font-size: 44px;
+        }
+        a{color:black}
+        a:hover{
+          color:grey !important;
+        }
+        </style>
+
+        <p class="social">
+            <a class="social-button" href="https://github.com/hkfuertes"><i class="icon-github-circled"></i></a>
+            <a class="social-button" href="mailto:mjfuertesf@gmail.com"><i class="icon-mail-squared social-button"></i></a>
+            <a class="social-button" href="https://www.linkedin.com/in/hkfuertes"><i class="icon-linkedin-squared social-button"></i></a>
+            <a class="social-button" href="https://twitter.com/hkfuertes"><i class="icon-twitter-squared social-button"></i></a>
+        </p>
+
+        <!--
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        -->
+
       </header>
       <section>
 
