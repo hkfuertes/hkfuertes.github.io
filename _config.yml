@@ -6,6 +6,7 @@
 #google_analytics: [Your Google Analytics tracking ID]
 
 remote_theme: thelehhman/plainwhite-jekyll
+plainwhite:
   name: Miguel Fuertes
     tagline: Developer. Designer
     date_format: "%b %-d, %Y"
