@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Welcome to my place!
 
-You can use the [editor on GitHub](https://github.com/hkfuertes/hkfuertes.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Great! You made it here! Now lets relax and _**have some fun**_. Let me show what i do, and maybe you can enjoy a little bit more... 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Technologies
+Before showcasing the projects, let me introduce you to my prefered techonlogies for both backend and frontend.
 
-### Markdown
+- **Backend**: My "goto" language for developing backend technologies is [PHP](https://www.php.net/) with the [Symfony Framework](https://symfony.com/). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  I know, I know... there are more cool languages out there, i know them myself also, NodeJS + ExpresJS, maybe Python + DJango, but if you want to go on the cheap, almost all the servers with a fairly low price only understand PHP.
 
-```markdown
-Syntax highlighted code block
+- **Frontend**: Android. Recently I discovered that I could speed things up if i use [Flutter](https://flutter.dev/), so thats what I have been developing recently, but for other projects (TV ones) flutter is not an option, so Android/Java.
 
-# Header 1
-## Header 2
-### Header 3
+  On the web, [Bootstrap](https://getbootstrap.com/) for doing all the html styling, and some useful templates, like [AdminLTE](https://adminlte.io/).
 
-- Bulleted
-- List
+  Wish for next vacation period, Android/Kotlin, maybe ReactJS, Angular...
 
-1. Numbered
-2. List
+  _Also, good all Java Swing, if I happen to develop any Desktop App_
 
-**Bold** and _Italic_ and `Code` text
+### Projects
 
-[Link](url) and ![Image](src)
-```
+Here is a small peak of what I usually do on my spare time, I hope you like it:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [CSBook](https://csbook.es): Project that aims to organize and easily distribute the songs that my choir sings every sunday service at my church. It has song/version management, chord management, multi paris/church support, multi service support, export to word, export to chordpro and songbook generation just to quote some. _Code will be realase soon..._
 
-### Jekyll Themes
+- [CSBook Flutter App](https://github.com/hkfuertes/csbook_app)**\***: This a basic client for the PHP written backend hosted in _[https://parroquias.csbook.es](https://parroquias.csbook.es)_.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hkfuertes/hkfuertes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **CSBook FiresStick App**: Another client for CSBook, but this is meant to be used with the [Amazon FireStick TV]() so that the masses created with the backend can be slideshowed during the service.
+_Code will be realase soon..._
 
-### Support or Contact
+- [Lecturas Flutter App](https://github.com/hkfuertes/Lecturas)**\***: This is another simple app in flutter. The main goal is to have a centralized place to read the daily Sacred Scripts, and to have the ability to write a personal though about them to revisit it later.
+  >Lecturas 1.0.0beta [download](https://github.com/hkfuertes/Lecturas/releases/download/1.0.0beta/Lecturas.beta.apk).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Blood Preasure & Weight Management Platform](https://github.com/hkfuertes/tension-app-server-sql): Backend project in NodeJS and SQL to store a private database of Blod preasure and Weight measures.
+
+- [Blood Preasure Flutter App](https://github.com/hkfuertes/tension-app-flutter) **\***: _**My very First Flutter app!**_ The aim of this app is to be a client for the Blod Preasure and Weight management system described above.
+
+- [PlayMax.TV](https://github.com/hkfuertes/PlayMax.TV) [_Deprecated_]: With this project, you were able to connect to [PlayMax](https://playmax.mx) back in the day when you had links for several services. _I havent use this app in time, so I don't expect it to work_ but is a really good example of how to use Android's Leanback Library.
+
+- [Eventus](https://github.com/hkfuertes/eventus): Final Degree Project back in college. Its a "mini-facebook", the idea behind this is to create a public space in where to upload photos and share comments in an ephimeral way, for example a wedding. The site is available for as long as the bride and groom decide it to be. Past that time, the site gets erased.
+
+- [Eventus Android App](https://github.com/hkfuertes/eventus-android): Pure Android client for the `Eventus` platform.
+
+ **\*** _Flutter apps, right now tested and developed on Android as I dont have a Mac to test the iOS comeout._
+
+ ### Completing my resume
+ Currently working on a C#/Azure driven company as developer, on a solution that uses plethora of Azure resource types. 
+
+ **TL;DR** Here you have a link to my CV:
+> Curriculum Vitae [here](https://www.dropbox.com/s/noenzdbm58jgyns/curriculum_ultimo_2019.pdf?dl=1)!
