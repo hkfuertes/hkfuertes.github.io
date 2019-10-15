@@ -44,7 +44,7 @@ _Code will be realase soon..._
 
  **\*** _Flutter apps, right now tested and developed on Android as I dont have a Mac to test the iOS comeout._
 
- ### Completing my resume
+### Completing my resume
 
  Currently working on a C#/Azure driven company as developer, on a solution that uses plethora of Azure resource types. 
 
