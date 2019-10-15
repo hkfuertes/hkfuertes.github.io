@@ -15,3 +15,5 @@ show_downloads: false
 #    twitter: hkfuertes
 #    github:  hkfuertes
 #    linkedIn: in/hkfuertes # format: locale/username
+
+remote_theme: poole/hyde
