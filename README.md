@@ -26,7 +26,7 @@ Here is a small peak of what I usually do on my spare time, I hope you like it:
 
 - **[CSBook Flutter App](https://github.com/hkfuertes/csbook_app)\***: This a basic client for the PHP written backend hosted in _[https://parroquias.csbook.es](https://parroquias.csbook.es)_.
 
-- **CSBook FiresStick App**: Another client for CSBook, but this is meant to be used with the [Amazon FireStick TV]() so that the masses created with the backend can be slideshowed during the service.
+- **CSBook FiresStick App**: Another client for CSBook, but this is meant to be used with the [Amazon FireStick TV](https://www.amazon.es/gp/product/B07PVCVBN7/ref=k-xs_es_ups_dz_tkl) so that the masses created with the backend can be slideshowed during the service.
 _Code will be realase soon..._
 
 - **[Lecturas Flutter App](https://github.com/hkfuertes/Lecturas)\***: This is another simple app in flutter. The main goal is to have a centralized place to read the daily Sacred Scripts, and to have the ability to write a personal though about them to revisit it later.
