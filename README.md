@@ -32,7 +32,7 @@ _Code will be realase soon..._
 - **[Lecturas Flutter App](https://github.com/hkfuertes/Lecturas)\***: This is another simple app in flutter. The main goal is to have a centralized place to read the daily Sacred Scripts, and to have the ability to write a personal though about them to revisit it later.
   >Lecturas 1.0.0beta [download](https://github.com/hkfuertes/Lecturas/releases/download/1.0.0beta/Lecturas.beta.apk).
 
-- **[Blood Preasure & Weight Management Platform]**(https://github.com/hkfuertes/tension-app-server-sql): Backend project in NodeJS and SQL to store a private database of Blod preasure and Weight measures.
+- **[Blood Preasure & Weight Management Platform](https://github.com/hkfuertes/tension-app-server-sql)**: Backend project in NodeJS and SQL to store a private database of Blod preasure and Weight measures.
 
 - **[Blood Preasure Flutter App](https://github.com/hkfuertes/tension-app-flutter) \***: _**My very First Flutter app!**_ The aim of this app is to be a client for the Blod Preasure and Weight management system described above.
 
