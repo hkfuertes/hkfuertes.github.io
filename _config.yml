@@ -1,7 +1,7 @@
 #theme: jekyll-theme-minimal
 remote_theme: thelehhman/plainwhite-jekyll
-  title: Miguel Fuertes
-  description: Interesting Projects!
-  logo: https://raw.githubusercontent.com/hkfuertes/hkfuertes.github.io/master/circle-cropped.png
-  show_downloads: false
+title: Miguel Fuertes
+description: Interesting Projects!
+logo: https://raw.githubusercontent.com/hkfuertes/hkfuertes.github.io/master/circle-cropped.png
+show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
