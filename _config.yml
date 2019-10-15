@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Miguel Fuertes
 description: Interesting Projects!
-logo: https://raw.githubusercontent.com/hkfuertes/hkfuertes.github.io/master/assets/portfolio.png
+logo: assets/portfolio.png
 show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
 
