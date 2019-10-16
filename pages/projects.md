@@ -17,7 +17,7 @@ _Code will be realase soon..._
 
 - **[Blood Preasure & Weight Management Platform](https://github.com/hkfuertes/tension-app-server-sql)**: Backend project in NodeJS and SQL to store a private database of Blod preasure and Weight measures.
 
-- **[Blood Preasure & Weight Management Flutter App](https://github.com/hkfuertes/tension-app-flutter) \***: _**My very First Flutter app!**_ The aim of this app is to be a client for the Blod Preasure and Weight management system described above.
+- **[Blood Preasure & Weight Management Flutter App](https://github.com/hkfuertes/tension-app-flutter) \***: _**My very First Flutter app!**_ The aim of this app is to be a client for the Blood Preasure and Weight management system described above.
 
 - **[PlayMax.TV](https://github.com/hkfuertes/PlayMax.TV)** [_Deprecated_]: With this project, you were able to connect to [PlayMax](https://playmax.mx) back in the day when you had links for several services. _I havent use this app in time, so I don't expect it to work_ but is a really good example of how to use Android's Leanback Library.
 
