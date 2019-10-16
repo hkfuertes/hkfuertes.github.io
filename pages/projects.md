@@ -7,7 +7,7 @@ permalink: /projects
 Here is a small peak of what I usually do on my spare time, I hope you like it:
 
 - **CSBook**: Project that aims to organize and easily distribute the songs that my choir sings every sunday service at my church. It has song/version management, chord management, multi paris/church support, multi service support, export to word, export to chordpro and songbook generation just to quote some. _Code will be realase soon..._
-  > You can find it running [here](https://parroquias.csbook.es).
+  > You can find it running [here](https://parroquias.csbook.es), and some tutorials (in Spanish) [here](https://hkfuertes.github.io/csbguide/).
 
 - **[CSBook Flutter App](https://github.com/hkfuertes/csbook_app)\***: Simple App _in read only mode_ for the `CSBook` backend. With the ability to search for songs, modify the key, view all the Masses and view their chords. _You just need this app to play the guitar in any service or payer that you ar at._
 
