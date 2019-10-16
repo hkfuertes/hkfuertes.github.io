@@ -1,13 +1,12 @@
 ---
-layout: post
-title:  "Welcome to my place!"
-date:   2019-10-16 00:00:00 +0100
-permalink: /
+layout: home
+permalink: /resume
 categories: 
 ---
+# Resume
 Great! You made it here! Now lets relax and _**have some fun**_. Let me show what I do, and maybe you can enjoy a little bit more... 
 
-### Technologies
+## Technologies
 
 Before showcasing the projects, let me introduce you to my prefered techonlogies for both backend and frontend.
 
@@ -23,4 +22,10 @@ Before showcasing the projects, let me introduce you to my prefered techonlogies
 
   _Also, good all Java Swing, if I happen to develop any Desktop App_
 
-## Lets see my [work](/projects)
+### Lets see my [work](/projects)
+
+## ... more about me ...
+Currently working on a C#/Azure driven company as developer, on a solution that uses plethora of Azure resource types. 
+
+**TL;DR** Here you have a link to my CV:
+> Curriculum Vitae [here](https://www.dropbox.com/s/noenzdbm58jgyns/curriculum_ultimo_2019.pdf?dl=1)!

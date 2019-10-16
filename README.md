@@ -1,8 +1,11 @@
-## Welcome to my place!
+---
+permalink: README.html
+---
+# Welcome to my place!
 
 Great! You made it here! Now lets relax and _**have some fun**_. Let me show what I do, and maybe you can enjoy a little bit more... 
 
-### Technologies
+## Technologies
 
 Before showcasing the projects, let me introduce you to my prefered techonlogies for both backend and frontend.
 
@@ -18,7 +21,7 @@ Before showcasing the projects, let me introduce you to my prefered techonlogies
 
   _Also, good all Java Swing, if I happen to develop any Desktop App_
 
-### Projects
+## Projects
 
 Here is a small peak of what I usually do on my spare time, I hope you like it:
 
@@ -44,7 +47,7 @@ _Code will be realase soon..._
 
  **\*** _Flutter apps, right now tested and developed on Android as I dont have a Mac to test the iOS comeout._
 
-### Completing my resume
+## Completing my resume
 
  Currently working on a C#/Azure driven company as developer, on a solution that uses plethora of Azure resource types. 
 
