@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Miguel Fuertes | localhost
 permalink: index.html
 ---
 # Welcome to my `localhost`!

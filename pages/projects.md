@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Miguel Fuertes | .projects
 permalink: /projects
 ---
 # Projects
