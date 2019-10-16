@@ -2,6 +2,26 @@
 <html lang="en">
 <head>
 	{%- include head.html -%}
+	<style>
+	#resume{
+		text-decoration: none;
+		background-color: black; /* Green */
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		border-radius: 8px;
+		font-weight: bold;
+		transition: 0.3s;
+	}
+	#resume:hover{
+		background-color:#0A59B0;
+		
+	}
+	</style>
 </head>
 <body>
 	<main class="container">
@@ -20,6 +40,7 @@
                 <a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}"><li><i class="icon-twitter-squared"></i></li></a>
                 {%- endif -%}
 			</ul>
+			<a id="resume" href="https://www.dropbox.com/s/noenzdbm58jgyns/curriculum_ultimo_2019.pdf?dl=1">RESUME</a>
 			<p>&copy; 2019</p>
 		</section>
 		<section class="content">

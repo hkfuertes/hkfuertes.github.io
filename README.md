@@ -1,7 +1,7 @@
 ---
 permalink: README.html
 ---
-# Welcome to my place!
+# Welcome to my `localhost`!
 
 Great! You made it here! Now lets relax and _**have some fun**_. Let me show what I do, and maybe you can enjoy a little bit more... 
 
@@ -11,9 +11,9 @@ Before showcasing the projects, let me introduce you to my prefered techonlogies
 
 - **Backend**: My _goto_ language for developing backend technologies is [PHP](https://www.php.net/) with the [Symfony Framework](https://symfony.com/). 
 
-  I know, I know... there are more cool languages out there, i know them myself also, NodeJS + ExpresJS, maybe Python + DJango, but if you want to go on the cheap, almost all the servers with a fairly low price only understand PHP.
+  I know, I know... there are more cool languages out there, I know them myself also, NodeJS + ExpresJS, maybe Python + DJango, but if you want to go on the cheap, almost all the servers with a fairly low price only understand PHP.
 
-- **Frontend**: Android. Recently I discovered that I could speed things up if i use [Flutter](https://flutter.dev/), so thats what I have been developing recently, but for other projects (TV ones) flutter is not an option, so Android/Java.
+- **Frontend**: _In a word?_ **Android**! Although recently I discovered that I could speed things up if i use [Flutter](https://flutter.dev/), wich in esence is Android (or iOS), so thats what I have been developing recently, but for other projects (TV ones) flutter is not an option, so Android/Java.
 
   On the web, [Bootstrap](https://getbootstrap.com/) for doing all the html styling, and some useful templates, like [AdminLTE](https://adminlte.io/).
 
@@ -35,7 +35,7 @@ _Code will be realase soon..._
 - **[Lecturas Flutter App](https://github.com/hkfuertes/Lecturas)\***: This is another simple app in flutter. The main goal is to have a centralized place to read the daily Sacred Scripts, and to have the ability to write a personal though about them to revisit it later.
   >Lecturas 1.0.0beta [download](https://github.com/hkfuertes/Lecturas/releases/download/1.0.0beta/Lecturas.beta.apk).
 
-- **[Blood Preasure & Weight Management Platform](https://github.com/hkfuertes/tension-app-server-sql)**: Backend project in NodeJS and SQL to store a private database of Blod preasure and Weight measures.
+- **[Blood Preasure & Weight Management Platform](https://github.com/hkfuertes/tension-app-server-sql)**: Backend project in NodeJS and SQL to store a private database of Blood preasure and Weight measures.
 
 - **[Blood Preasure & Weight Management Flutter App](https://github.com/hkfuertes/tension-app-flutter) \***: _**My very First Flutter app!**_ The aim of this app is to be a client for the Blood Preasure and Weight management system described above.
 
@@ -46,10 +46,3 @@ _Code will be realase soon..._
 - **[Eventus Android App](https://github.com/hkfuertes/eventus-android)**: Pure Android client for the `Eventus` platform.
 
  **\*** _Flutter apps, right now tested and developed on Android as I dont have a Mac to test the iOS comeout._
-
-## Completing my resume
-
- Currently working on a C#/Azure driven company as developer, on a solution that uses plethora of Azure resource types. 
-
- **TL;DR** Here you have a link to my CV:
-> Curriculum Vitae [here](https://www.dropbox.com/s/noenzdbm58jgyns/curriculum_ultimo_2019.pdf?dl=1)!
