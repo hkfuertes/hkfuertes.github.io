@@ -3,7 +3,7 @@
 #description: Interesting Projects!
 #logo: assets/portfolio.png
 #show_downloads: false
-google_analytics: UA-150284998-1
+#google_analytics: UA-150284998-1
 
 # To further modify: https://github.com/pages-themes/minimal
 
@@ -13,6 +13,7 @@ plainwhite:
   name: Miguel Fuertes
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
+  analytics_id: UA-150284998-1
 
   social_links:
     twitter: hkfuertes
