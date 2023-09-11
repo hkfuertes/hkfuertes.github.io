@@ -1,0 +1,109 @@
+{
+    "description": "From newest to oldest. Backend developer most of the time. Open minded, diferent frameworks, diferent projects, diferent technologies, <b>you name it!</b>",
+    "positions": [{
+            "id": 5,
+            "company": "Gartner",
+            "position": "Backend Developer",
+            "logo": "images/logos/gartner.png",
+            "description": [
+                "Backend Ruby on Rails developer for GetApp",
+                "Backend Ruby developer with Kafka"
+            ],
+            "technologies": [
+                "Ruby", "RoR", "Kafka", "AWS", "PostgreSQL", "OpenSearch", "SEO", "Datadog"
+            ],
+            "start_date": "13/06/2022",
+            "end_date": "",
+            "urls": [
+                { "name": "GetApp", "href": "https://getapp.com" },
+                { "name": "Capterra", "href": "https://capterra.com" }
+            ]
+        },
+
+        {
+            "id": 4,
+            "company": "Atos",
+            "position": "MSDP Lead Developer",
+            "logo": "images/logos/atos.png",
+            "description": [
+                "Backend C# devloper for the Microsoft Sports Digital Platform for LFP",
+                "Support Team lead"
+            ],
+            "technologies": [
+                "Azure Stack", "C#", "Active directory B2C", "Azure DevOps"
+            ],
+            "start_date": "01/03/2019",
+            "end_date": "13/06/2022",
+            "urls": [
+                { "name": "Ligue 1", "href": "https://ligue1.fr" },
+                { "name": "Ligue 2", "href": "https://ligue2.fr" }
+            ]
+        },
+        {
+            "id": 3,
+            "company": "Microsoft Sports",
+            "position": "Program Manager",
+            "logo": "images/logos/microsoft.png",
+            "description": [
+                "Manage all the diferent client (ie: Real Madrid, LaLiga, FIVB, FIT...) using the MSDP Platform, helping the interconnection of the diferent projects.",
+                "Conducting PoC over Azure for the platform."
+            ],
+            "technologies": [
+                "Azure Stack", "C#", "Active directory B2C", "Azure DevOps"
+            ],
+            "start_date": "01/10/2016",
+            "end_date": "01/03/2019",
+            "urls": []
+        },
+        {
+            "id": 2,
+            "company": "Vitale Inteligent Systems",
+            "position": "FullStack developer",
+            "logo": "images/logos/vitale.jpg",
+            "description": [
+                "Head of Android Development for the Native android app for MyVitale",
+                "Symphony 2 developer for the web version of the product."
+            ],
+            "technologies": [
+                "Android", "PHP", "MySQL", "Symfony"
+            ],
+            "start_date": "01/10/2015",
+            "end_date": "01/10/2016",
+            "urls": [
+                { "name": "MyVitale", "href": "https://www.myvitale.com/" }
+            ]
+        },
+        {
+            "id": 1,
+            "company": "OpenBravo",
+            "position": "Support developer",
+            "logo": "images/logos/openbravo.png",
+            "description": [
+                "Resolved issues for our clients giving a guided solution to the problem.",
+                "Guided our partners to develop new modules for their platform"
+            ],
+            "technologies": [
+                "Java", "Tomcat", "Hibernate", "Oracle", "PostgreSQL"
+            ],
+            "start_date": "01/06/2015",
+            "end_date": "01/10/2015",
+            "urls": []
+        },
+        {
+            "id": 0,
+            "company": "Systia",
+            "position": "Project Manager, Fullstack developer",
+            "logo": "images/logos/systia.png",
+            "description": [
+                "Led important regional projects (Pamplona, Spain) in PHP and Simfony",
+                "Collaborated with TweetBinder, building part of the video wall system."
+            ],
+            "technologies": [
+                "PHP", "MySQL", "Angular", "Twig", "Symfony"
+            ],
+            "start_date": "01/09/2013",
+            "end_date": "01/06/2015",
+            "urls": []
+        }
+    ]
+}

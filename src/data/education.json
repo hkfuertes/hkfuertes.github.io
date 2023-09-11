@@ -1,0 +1,39 @@
+{
+    "description": "From highschool, to now... and <b>beyond!</b>",
+    "education": [{
+            "id": 4,
+            "title": "Teaching Master",
+            "university": "Nebrija",
+            "city": "Madrid, Madrid",
+            "year": 2022
+        },
+        {
+            "id": 3,
+            "title": "Biomedical Engineering Master",
+            "university": "UPNA",
+            "city": "Pamplona, Navarra",
+            "year": 2019
+        },
+        {
+            "id": 2,
+            "title": "Computer Science Major",
+            "university": "UPNA",
+            "city": "Pamplona, Navarra",
+            "year": "2014"
+        },
+        {
+            "id": 1,
+            "title": "Year Abroad",
+            "university": "Millersville University",
+            "city": "Lancaster, Pensylvania",
+            "year": "2012"
+        },
+        {
+            "id": 0,
+            "title": "Computer Science Minor",
+            "university": "UPNA",
+            "city": "Pamplona, Navarra",
+            "year": "2011"
+        }
+    ]
+}

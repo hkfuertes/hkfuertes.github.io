@@ -1,0 +1,52 @@
+{
+    "description": "Curious about technology, <i>What do I do in my spare time?</i> <b>Learn</b>!",
+    "projects": [{
+            "title": "Cancionero",
+            "description": "RoR Application to manage songs for guitar. You can manage chords and songs for masses.",
+            "technologies": [
+                "Ruby", "TurboJS", "PHP", "docker", "MariaDB"
+            ],
+            "url": "https://doceacordes.es"
+        },
+        {
+            "title": "CSBook App",
+            "description": "Mobile application that connects with CSBook Webpage (now doceacordes.es) to see the songs and masses.",
+            "technologies": [
+                "flutter", "dart"
+            ],
+            "url": "https://github.com/hkfuertes/csbook_app"
+        },
+        {
+            "title": "Tags",
+            "description": "THE app to reuse NFC cards in Home Assistant. Turn an old nfc-enabled smartphone into a nfc reader for Home Assistant.",
+            "technologies": [
+                "android", "home-assistant", "nfc"
+            ],
+            "url": "https://github.com/hkfuertes/tags"
+        },
+        {
+            "title": "rclone-db-backup",
+            "description": "Docker Container to backup MySQL/MariaDB to a *.sql.zip file inside an RClone compatible share.",
+            "technologies": [
+                "docker", "rclone", "mysql", "mariadb"
+            ],
+            "url": "https://github.com/hkfuertes/rclone-db-backup"
+        },
+        {
+            "title": "telegram-db-backup",
+            "description": "Docker Container to backup MySQL/MariaDB to a *.sql.zip file to a Telegram Bot Chat.",
+            "technologies": [
+                "docker", "telegram", "mysql", "mariadb"
+            ],
+            "url": "https://github.com/hkfuertes/telegram-db-backup"
+        },
+        {
+            "title": "altserver",
+            "description": "AltServer with nextmuxd docker-compose convenience scripts.",
+            "technologies": [
+                "altstore", "docker", "netmuxd", "linux"
+            ],
+            "url": "https://github.com/hkfuertes/altserverd"
+        }
+    ]
+}

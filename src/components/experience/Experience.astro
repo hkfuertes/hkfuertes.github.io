@@ -1,0 +1,56 @@
+---
+import Position from "./Position.astro"
+import {positions, description} from "../../data/experience.json"
+
+const halfPoint = Math.ceil(positions.length / 2)
+positions.sort((a,b) => b['id'] - a['id']);
+
+---
+<div class="pl-6 pr-6">
+<h5 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white">Work Experience</h5>
+<p class="mt-2 text-lg tracking-tight text-gray-700 dark:text-gray-400" set:html={description}></p>
+<div
+	class="mt-4 block max-w p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700"
+>
+
+	<section class="grid-container grid md:grid-cols-2 sm:grid-cols-1 p-4">
+		<ol class=" pb-10 relative border-l border-gray-200 dark:border-gray-700">
+			{
+			positions.slice(0, halfPoint).map(({id,company, position, logo, description, technologies, start_date, end_date, urls})=>(
+				<li class="mb-10 ml-6">
+					<Position
+						latest={id==positions[0]['id']}
+						company={company}
+						position={position}
+						logo={logo}
+						description_array={description}
+						technologies_array={technologies}
+						start_date={start_date}
+						end_date={end_date}
+						urls={urls}
+					/>
+					</li>
+			))
+		}
+		</ol>
+		<ol class="relative border-l border-gray-200 dark:border-gray-700">
+			{
+				positions.slice(halfPoint).map(({company, position, logo, description, technologies, start_date, end_date, urls})=>(
+					<li class="mb-10 ml-6">
+						<Position
+							company={company}
+							position={position}
+							logo={logo}
+							description_array={description}
+							technologies_array={technologies}
+							start_date={start_date}
+							end_date={end_date}
+							urls={urls}
+						/>
+						</li>
+				))
+			}
+		</ol>
+	</section>
+</div>
+</div>
