@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  nginx:
+    image: nginx
+    restart: unless-stopped
+    volumes:
+      - ./dist:/usr/share/nginx/html
+    ports:
+      - "7777:80"
