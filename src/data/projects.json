@@ -71,14 +71,6 @@
                "php", "composer", "library", "chordpro"
             ],
             "url": "https://github.com/hkfuertes/phpchords"
-        },
-        {
-            "title": "This Portfolio",
-            "description": "Done in Astro! First real web frontend project!",
-            "technologies": [
-               "astro", "tailwind", "json", "github pages"
-            ],
-            "url": "https://github.com/hkfuertes/hkfuertes.github.io"
         }
     ]
 }
