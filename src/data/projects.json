@@ -47,6 +47,38 @@
                 "altstore", "docker", "netmuxd", "linux"
             ],
             "url": "https://github.com/hkfuertes/altserverd"
+        },
+        {
+            "title": "z2m-mqtt-keyboard",
+            "description": "Use your zigbee2mqtt devices to control your pc. Maps a button from device to a keyboard key or key combo.",
+            "technologies": [
+               "python", "mqtt", "zigbee", "pynput", "zigbee2mqtt" 
+            ],
+            "url": "https://github.com/hkfuertes/z2m-mqtt-keyboard"
+        },
+        {
+            "title": "WeatherProvider",
+            "description": "Simple OWM weather provider for Gadgetbridge.",
+            "technologies": [
+               "android", "gadgetbridge", "owm" 
+            ],
+            "url": "https://github.com/hkfuertes/WeatherProvider"
+        },
+        {
+            "title": "phpChords",
+            "description": "PHP Chords library. Parses the (basic) chordpro format.",
+            "technologies": [
+               "php", "composer", "library", "chordpro"
+            ],
+            "url": "https://github.com/hkfuertes/phpchords"
+        },
+        {
+            "title": "This Portfolio",
+            "description": "Done in Astro! First real web frontend project!",
+            "technologies": [
+               "astro", "tailwind", "json", "github pages"
+            ],
+            "url": "https://github.com/hkfuertes/hkfuertes.github.io"
         }
     ]
 }
