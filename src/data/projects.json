@@ -50,7 +50,7 @@
         },
         {
             "title": "z2m-mqtt-keyboard",
-            "description": "Use your zigbee2mqtt devices to control your pc. Maps a button from device to a keyboard key or key combo.",
+            "description": "Use your zigbee2mqtt devices to control your computer. Maps a button from device to a keyboard key or key combo.",
             "technologies": [
                "python", "mqtt", "zigbee", "pynput", "zigbee2mqtt" 
             ],
