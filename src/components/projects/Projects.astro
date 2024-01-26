@@ -3,8 +3,8 @@ import Project from "./Project.astro";
 import {projects, description} from "../../data/projects.json"
 ---
 <div class="p-6 mt-4">
-<h5 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white">Side Projects</h5>
-<p class="mt-2 text-lg tracking-tight text-gray-700 dark:text-gray-400" set:html={description}></p>
+<h5 class="text-4xl font-bold tracking-tight text-white">Side Projects</h5>
+<p class="mt-2 text-lg tracking-tight text-gray-400" set:html={description}></p>
 <div class="mt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
 
         {projects.map(({title,description,url,technologies})=> (

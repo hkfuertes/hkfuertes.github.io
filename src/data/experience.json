@@ -7,13 +7,14 @@
             "logo": "images/logos/gartner.png",
             "description": [
                 "Backend Ruby on Rails developer for GetApp",
-                "Backend Ruby developer with Kafka"
+                "Backend Ruby developer with Kafka",
+                "Backend Elixir developer with Kafka/Broadway"
             ],
             "technologies": [
-                "Ruby", "RoR", "Kafka", "AWS", "PostgreSQL", "OpenSearch", "SEO", "Datadog"
+                "Ruby", "Kafka", "AWS", "PostgresSQL", "OpenSearch", "Datadog", "Elixir"
             ],
             "start_date": "13/06/2022",
-            "end_date": "",
+            "end_date": "Today",
             "urls": [
                 { "name": "GetApp", "href": "https://getapp.com" },
                 { "name": "Capterra", "href": "https://capterra.com" }

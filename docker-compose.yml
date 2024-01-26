@@ -1,10 +1,19 @@
 version: '3'
 
 services:
-  nginx:
-    image: nginx
+  node:
+    image: node:lts
     restart: unless-stopped
     volumes:
-      - ./dist:/usr/share/nginx/html
+      - .:/app
+    working_dir: /app
+    command: /bin/bash -c "npm install && npm run dev -- --host 0.0.0.0"
     ports:
-      - "7777:80"
+      - "4321:4321"
+  # nginx:
+  #   image: nginx
+  #   restart: unless-stopped
+  #   volumes:
+  #     - ./dist:/usr/share/nginx/html
+  #   ports:
+  #     - "7777:80"

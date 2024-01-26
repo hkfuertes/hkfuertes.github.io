@@ -6,8 +6,8 @@ education.sort((a,b) => b['id'] - a['id']);
 
 ---
 <section class="p-6">
-    <h5 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white"> Education </h5>
-    <p class="mt-2 text-lg tracking-tight text-gray-700 dark:text-gray-400 mb-6" set:html={description}></p>
+    <h5 class="text-4xl font-bold tracking-tight text-white"> Education </h5>
+    <p class="mt-2 text-lg tracking-tight text-gray-400 mb-6" set:html={description}></p>
 <ol class="items-center sm:flex">
     {education.map(({city,title,university,year})=> (
         <li class="relative mb-6 sm:mb-0">
